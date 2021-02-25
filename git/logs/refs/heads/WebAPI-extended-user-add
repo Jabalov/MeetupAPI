@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 f511d5bdba96ac078b1ae25cb3829c8ea1e35908 Jakub Kozera <kozerakuba@gmail.com> 1585480424 +0200	branch: Created from f511d5bdba96ac078b1ae25cb3829c8ea1e35908
+f511d5bdba96ac078b1ae25cb3829c8ea1e35908 45a2156701f950579f3d43159ae444e723c83e34 Jakub Kozera <kozerakuba@gmail.com> 1585480527 +0200	commit: 2.1 User and role entity add
+45a2156701f950579f3d43159ae444e723c83e34 ad895d5f9f22ac53c4f622edbe7a508143fa0221 Jakub Kozera <kozerakuba@gmail.com> 1585482122 +0200	commit: Missing User email prop
+ad895d5f9f22ac53c4f622edbe7a508143fa0221 fefb94d8978a3c693e7d7e892b3cb268872b93fd Jakub Kozera <kozerakuba@gmail.com> 1585482251 +0200	commit: Nullable DateOfBirth
+fefb94d8978a3c693e7d7e892b3cb268872b93fd c0bedc0100d35b1112c2eb0a32263b3236d3250a Jakub Kozera <kozerakuba@gmail.com> 1585482325 +0200	commit: User missing prop Migration
+c0bedc0100d35b1112c2eb0a32263b3236d3250a d5457c4f9b2d8d819a97709fcdc0442c255bcdea Jakub Kozera <kozerakuba@gmail.com> 1585482355 +0200	commit: Register user (RegisterUserDto commited before :( )
+d5457c4f9b2d8d819a97709fcdc0442c255bcdea 4ed192706c759cd1837c15d5e0b52a1d5d6a592e Jakub Kozera <kozerakuba@gmail.com> 1585490821 +0200	commit: [FromBody] attr
+4ed192706c759cd1837c15d5e0b52a1d5d6a592e 2871aa71edbc4319a3cbc4d786a5627c38d7373f Jakub Kozera <kozerakuba@gmail.com> 1585506454 +0200	commit: 2.4 Password hashing
+2871aa71edbc4319a3cbc4d786a5627c38d7373f 7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 Jakub Kozera <kozerakuba@gmail.com> 1585565490 +0200	commit: 2.5 Refactor walidacji danych.
+7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 225c5ef27cdf572971084e3e76f6f0d7c52ddaec Jakub Kozera <kozerakuba@gmail.com> 1585569460 +0200	commit: 2.6 JWT Token authorization
+225c5ef27cdf572971084e3e76f6f0d7c52ddaec 4bb65e35ad727911ac0a9dc08b06eea61b2b3cdf Jakub Kozera <kozerakuba@gmail.com> 1585575490 +0200	commit: 2.7 User Login
+4bb65e35ad727911ac0a9dc08b06eea61b2b3cdf f999916aa89e4c9fe1ff24d69940a44abffcb2f4 Jakub Kozera <kozerakuba@gmail.com> 1586010851 +0200	commit: 3.1 Basic Authorization
+f999916aa89e4c9fe1ff24d69940a44abffcb2f4 f03f405a1b7220ffdc583f7b91fc0d82df4973b8 Jakub Kozera <kozerakuba@gmail.com> 1586010860 +0200	commit: 3.2 Role authorization

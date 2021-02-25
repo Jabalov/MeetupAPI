@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 406a917eb76c63a678b843607a029ce49c7151ef Jakub Kozera <kozerakuba@gmail.com> 1586457137 +0200	WIP on master: fa566e1 1.3 Migrate project to .NET Core 3.1
+406a917eb76c63a678b843607a029ce49c7151ef 0784ed9615a44981f0270e57c25ddad7a7d7dfea Jakub Kozera <kozerakuba@gmail.com> 1586685537 +0200	On master: Checking out WebAPI-extended Stashing uncommitted changes before performing a checkout of 'WebAPI-extended'. Pop or apply these changes to restore them.
+0784ed9615a44981f0270e57c25ddad7a7d7dfea ed8db2e377627a3a3bffcf353e093c5099394271 Jakub Kozera <kozerakuba@gmail.com> 1588228315 +0200	WIP on master: 091bbf7 cleanup

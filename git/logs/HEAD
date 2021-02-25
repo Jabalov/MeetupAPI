@@ -1,0 +1,77 @@
+0000000000000000000000000000000000000000 e80c5eef9e02d6042968fec48e5bf725a3b83869 Jakub Kozera <kozerakuba@gmail.com> 1562841747 +0200	commit (initial): Add .gitignore and .gitattributes.
+e80c5eef9e02d6042968fec48e5bf725a3b83869 607893fb099a5154b2bf1eed2199dc48420d3d51 Jakub Kozera <kozerakuba@gmail.com> 1562841750 +0200	commit: Add project files.
+607893fb099a5154b2bf1eed2199dc48420d3d51 dc458b65b3443b53f46d35320465f3044bae4693 Jakub Kozera <kozerakuba@gmail.com> 1566037884 +0200	commit: Entities add
+dc458b65b3443b53f46d35320465f3044bae4693 5061ec8821f4f1496ba8584488bdb40dd645b07d Jakub Kozera <kozerakuba@gmail.com> 1566119707 +0200	commit: MeetupContext
+5061ec8821f4f1496ba8584488bdb40dd645b07d 8468215d733cd46ccbbc6a6d85eb6c78dbdcbf69 Jakub Kozera <kozerakuba@gmail.com> 1566119715 +0200	commit: Init migration
+8468215d733cd46ccbbc6a6d85eb6c78dbdcbf69 abd9aa0cfecc19b0cd5388933badb77113d267f5 Jakub Kozera <kozerakuba@gmail.com> 1566141453 +0200	commit: seeder
+abd9aa0cfecc19b0cd5388933badb77113d267f5 7d71716947aff76de79bb9da76a476dc02274df1 Jakub Kozera <kozerakuba@gmail.com> 1566645876 +0200	commit: MeetupController
+7d71716947aff76de79bb9da76a476dc02274df1 9559ada881cf5c35617358ca271a145e9072b60d Jakub Kozera <kozerakuba@gmail.com> 1566647376 +0200	commit: Return Ok - status code 200
+9559ada881cf5c35617358ca271a145e9072b60d 5cbe3b8242d62a9360ad9e36c199e98825e3fffa Jakub Kozera <kozerakuba@gmail.com> 1566720647 +0200	commit: Automapper add
+5cbe3b8242d62a9360ad9e36c199e98825e3fffa 47a82c38c6765af19c4420eaeaa5c1c836b5f6ff Jakub Kozera <kozerakuba@gmail.com> 1566725945 +0200	commit: Get meetup
+47a82c38c6765af19c4420eaeaa5c1c836b5f6ff e44b5ffcc9bf9cd6c6d9d8653c6b4deb333469b8 Jakub Kozera <kozerakuba@gmail.com> 1566728725 +0200	commit: post meetup
+e44b5ffcc9bf9cd6c6d9d8653c6b4deb333469b8 c5f53e0f6bd8b652e9780624ef05b29636600e43 Jakub Kozera <kozerakuba@gmail.com> 1566750441 +0200	commit: Post and PUT
+c5f53e0f6bd8b652e9780624ef05b29636600e43 121ed896c375f0ec43054797a096ac63bede3f49 Jakub Kozera <kozerakuba@gmail.com> 1569873632 +0200	commit: Delete meetup
+121ed896c375f0ec43054797a096ac63bede3f49 f3234272292e6e40e1992350ebe607b144d93c07 Jakub Kozera <kozerakuba@gmail.com> 1570000062 +0200	commit: LectureController Add (5.1)
+f3234272292e6e40e1992350ebe607b144d93c07 eb2bd0b8fbc46be5e4f0d5ef0fad553e346ca89d Jakub Kozera <kozerakuba@gmail.com> 1570007083 +0200	commit: Launch browser set to false
+eb2bd0b8fbc46be5e4f0d5ef0fad553e346ca89d f3f98dad43149528380753e952f1ee11ed5f654b Jakub Kozera <kozerakuba@gmail.com> 1570016033 +0200	commit: 5.2 - Get Lectures
+f3f98dad43149528380753e952f1ee11ed5f654b 4d5b4e28a4a910d5fd525a23dea36d24a4caa37a Jakub Kozera <kozerakuba@gmail.com> 1570264239 +0200	commit: (5.3) usuwanie wykładów
+4d5b4e28a4a910d5fd525a23dea36d24a4caa37a cb16a1bb70a51b2fee7b4fccd0671166c8b1f865 Jakub Kozera <kozerakuba@gmail.com> 1570471010 +0200	commit: 5.4 Loggowanie
+cb16a1bb70a51b2fee7b4fccd0671166c8b1f865 ed088ae9c4ada0a44b3648792c72fd1897e3dab5 Jakub Kozera <kozerakuba@gmail.com> 1574842069 +0100	commit: Swagger add
+ed088ae9c4ada0a44b3648792c72fd1897e3dab5 ed088ae9c4ada0a44b3648792c72fd1897e3dab5 Jakub Kozera <kozerakuba@gmail.com> 1585478348 +0200	checkout: moving from master to WebAPI-extended
+ed088ae9c4ada0a44b3648792c72fd1897e3dab5 f511d5bdba96ac078b1ae25cb3829c8ea1e35908 Jakub Kozera <kozerakuba@gmail.com> 1585480016 +0200	commit: .NET Core version upgrade
+f511d5bdba96ac078b1ae25cb3829c8ea1e35908 f511d5bdba96ac078b1ae25cb3829c8ea1e35908 Jakub Kozera <kozerakuba@gmail.com> 1585480424 +0200	checkout: moving from WebAPI-extended to WebAPI-extended-user-add
+f511d5bdba96ac078b1ae25cb3829c8ea1e35908 45a2156701f950579f3d43159ae444e723c83e34 Jakub Kozera <kozerakuba@gmail.com> 1585480527 +0200	commit: 2.1 User and role entity add
+45a2156701f950579f3d43159ae444e723c83e34 ad895d5f9f22ac53c4f622edbe7a508143fa0221 Jakub Kozera <kozerakuba@gmail.com> 1585482122 +0200	commit: Missing User email prop
+ad895d5f9f22ac53c4f622edbe7a508143fa0221 fefb94d8978a3c693e7d7e892b3cb268872b93fd Jakub Kozera <kozerakuba@gmail.com> 1585482251 +0200	commit: Nullable DateOfBirth
+fefb94d8978a3c693e7d7e892b3cb268872b93fd c0bedc0100d35b1112c2eb0a32263b3236d3250a Jakub Kozera <kozerakuba@gmail.com> 1585482325 +0200	commit: User missing prop Migration
+c0bedc0100d35b1112c2eb0a32263b3236d3250a d5457c4f9b2d8d819a97709fcdc0442c255bcdea Jakub Kozera <kozerakuba@gmail.com> 1585482355 +0200	commit: Register user (RegisterUserDto commited before :( )
+d5457c4f9b2d8d819a97709fcdc0442c255bcdea 4ed192706c759cd1837c15d5e0b52a1d5d6a592e Jakub Kozera <kozerakuba@gmail.com> 1585490821 +0200	commit: [FromBody] attr
+4ed192706c759cd1837c15d5e0b52a1d5d6a592e 2871aa71edbc4319a3cbc4d786a5627c38d7373f Jakub Kozera <kozerakuba@gmail.com> 1585506454 +0200	commit: 2.4 Password hashing
+2871aa71edbc4319a3cbc4d786a5627c38d7373f 7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 Jakub Kozera <kozerakuba@gmail.com> 1585565490 +0200	commit: 2.5 Refactor walidacji danych.
+7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 225c5ef27cdf572971084e3e76f6f0d7c52ddaec Jakub Kozera <kozerakuba@gmail.com> 1585569460 +0200	commit: 2.6 JWT Token authorization
+225c5ef27cdf572971084e3e76f6f0d7c52ddaec 4bb65e35ad727911ac0a9dc08b06eea61b2b3cdf Jakub Kozera <kozerakuba@gmail.com> 1585575490 +0200	commit: 2.7 User Login
+4bb65e35ad727911ac0a9dc08b06eea61b2b3cdf f999916aa89e4c9fe1ff24d69940a44abffcb2f4 Jakub Kozera <kozerakuba@gmail.com> 1586010851 +0200	commit: 3.1 Basic Authorization
+f999916aa89e4c9fe1ff24d69940a44abffcb2f4 f03f405a1b7220ffdc583f7b91fc0d82df4973b8 Jakub Kozera <kozerakuba@gmail.com> 1586010860 +0200	commit: 3.2 Role authorization
+f03f405a1b7220ffdc583f7b91fc0d82df4973b8 ed088ae9c4ada0a44b3648792c72fd1897e3dab5 Jakub Kozera <kozerakuba@gmail.com> 1586013758 +0200	checkout: moving from WebAPI-extended-user-add to master
+ed088ae9c4ada0a44b3648792c72fd1897e3dab5 fa566e196b2e5f013b24e5a05cab29c00f648017 Jakub Kozera <kozerakuba@gmail.com> 1586112282 +0200	commit: 1.3 Migrate project to .NET Core 3.1
+fa566e196b2e5f013b24e5a05cab29c00f648017 9a08bb6e187c53548f62decbf9898644f79ed0d5 Jakub Kozera <kozerakuba@gmail.com> 1586607875 +0200	commit: 2.2 add user and role entity
+9a08bb6e187c53548f62decbf9898644f79ed0d5 00f76bdd16dd45b618b5399417be5af23b734049 Jakub Kozera <kozerakuba@gmail.com> 1586619626 +0200	commit: 2.3 register user
+00f76bdd16dd45b618b5399417be5af23b734049 af0d1fb0dbebef8ab786936712d4c5e406695726 Jakub Kozera <kozerakuba@gmail.com> 1586625468 +0200	commit: 2.4 Hashing password
+af0d1fb0dbebef8ab786936712d4c5e406695726 f03f405a1b7220ffdc583f7b91fc0d82df4973b8 Jakub Kozera <kozerakuba@gmail.com> 1586682587 +0200	checkout: moving from master to WebAPI-extended-user-add
+f03f405a1b7220ffdc583f7b91fc0d82df4973b8 af0d1fb0dbebef8ab786936712d4c5e406695726 Jakub Kozera <kozerakuba@gmail.com> 1586682965 +0200	checkout: moving from WebAPI-extended-user-add to master
+af0d1fb0dbebef8ab786936712d4c5e406695726 af0d1fb0dbebef8ab786936712d4c5e406695726 Jakub Kozera <kozerakuba@gmail.com> 1586685538 +0200	reset: moving to HEAD
+af0d1fb0dbebef8ab786936712d4c5e406695726 f511d5bdba96ac078b1ae25cb3829c8ea1e35908 Jakub Kozera <kozerakuba@gmail.com> 1586685538 +0200	checkout: moving from master to WebAPI-extended
+f511d5bdba96ac078b1ae25cb3829c8ea1e35908 af0d1fb0dbebef8ab786936712d4c5e406695726 Jakub Kozera <kozerakuba@gmail.com> 1586685567 +0200	checkout: moving from WebAPI-extended to master
+af0d1fb0dbebef8ab786936712d4c5e406695726 f511d5bdba96ac078b1ae25cb3829c8ea1e35908 Jakub Kozera <kozerakuba@gmail.com> 1586685680 +0200	checkout: moving from master to WebAPI-extended
+f511d5bdba96ac078b1ae25cb3829c8ea1e35908 f03f405a1b7220ffdc583f7b91fc0d82df4973b8 Jakub Kozera <kozerakuba@gmail.com> 1586685706 +0200	checkout: moving from WebAPI-extended to WebAPI-extended-user-add
+f03f405a1b7220ffdc583f7b91fc0d82df4973b8 af0d1fb0dbebef8ab786936712d4c5e406695726 Jakub Kozera <kozerakuba@gmail.com> 1586685751 +0200	checkout: moving from WebAPI-extended-user-add to master
+af0d1fb0dbebef8ab786936712d4c5e406695726 f03f405a1b7220ffdc583f7b91fc0d82df4973b8 Jakub Kozera <kozerakuba@gmail.com> 1586686336 +0200	checkout: moving from master to WebAPI-extended-user-add
+f03f405a1b7220ffdc583f7b91fc0d82df4973b8 7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 Jakub Kozera <kozerakuba@gmail.com> 1586694044 +0200	checkout: moving from WebAPI-extended-user-add to 7344d7d368debb8c8a1e8abf26f8c57e61d8afb9
+7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 af0d1fb0dbebef8ab786936712d4c5e406695726 Jakub Kozera <kozerakuba@gmail.com> 1586696801 +0200	checkout: moving from 7344d7d368debb8c8a1e8abf26f8c57e61d8afb9 to master
+af0d1fb0dbebef8ab786936712d4c5e406695726 cd1f4b99d087565b80261328f014efe3ff09778f Jakub Kozera <kozerakuba@gmail.com> 1586770869 +0200	commit: 2.5 Refaktor walidacji danych
+cd1f4b99d087565b80261328f014efe3ff09778f 67a6ded00dbb716b2542bf4e51497725bac34c3e Jakub Kozera <kozerakuba@gmail.com> 1586844684 +0200	commit: 2.6 Autentykacja tokenami JWT
+67a6ded00dbb716b2542bf4e51497725bac34c3e 37e26db4383d4775e40b67f76fccd1be2b17adc9 Jakub Kozera <kozerakuba@gmail.com> 1587048116 +0200	commit: 2.7 User login
+37e26db4383d4775e40b67f76fccd1be2b17adc9 32a039310117aa9fcd680784b41a80dcfd21e90d Jakub Kozera <kozerakuba@gmail.com> 1587211657 +0200	commit: 3.1 Authorize
+32a039310117aa9fcd680784b41a80dcfd21e90d 3ed8887f77400fa8ec01ad7c2335f55ea8f4a276 Jakub Kozera <kozerakuba@gmail.com> 1587220701 +0200	commit: 3.2 Authorize based on role
+3ed8887f77400fa8ec01ad7c2335f55ea8f4a276 1591d9ddc087a10695e33385cfd8c5818dfd13a4 Jakub Kozera <kozerakuba@gmail.com> 1587233477 +0200	commit: 3.3 Clamins authorizations
+1591d9ddc087a10695e33385cfd8c5818dfd13a4 c14fc8ff347f43c73002bbaba4a70db45775f959 Jakub Kozera <kozerakuba@gmail.com> 1587299949 +0200	commit: Claim rename
+c14fc8ff347f43c73002bbaba4a70db45775f959 a8c881abc53194ec92d050d1500f0fcbe147fda8 Jakub Kozera <kozerakuba@gmail.com> 1587312287 +0200	commit: 3.4 Custom policy
+a8c881abc53194ec92d050d1500f0fcbe147fda8 a8c881abc53194ec92d050d1500f0fcbe147fda8 Jakub Kozera <kozerakuba@gmail.com> 1587452266 +0200	checkout: moving from master to resource-authorization
+a8c881abc53194ec92d050d1500f0fcbe147fda8 78d12f93cdc2622e9322abe0f16f91629aa9dc75 Jakub Kozera <kozerakuba@gmail.com> 1587452279 +0200	commit: 3.5 Resource authorization
+78d12f93cdc2622e9322abe0f16f91629aa9dc75 a8c881abc53194ec92d050d1500f0fcbe147fda8 Jakub Kozera <kozerakuba@gmail.com> 1587452287 +0200	checkout: moving from resource-authorization to master
+a8c881abc53194ec92d050d1500f0fcbe147fda8 aeced03ac59a73bc5233be8f3e64f2b979ecece9 Jakub Kozera <kozerakuba@gmail.com> 1587808667 +0200	commit: 3.5 Resource access authorization
+aeced03ac59a73bc5233be8f3e64f2b979ecece9 cbf28fee792b95e626473e999c7e6809bd5ff8c6 Jakub Kozera <kozerakuba@gmail.com> 1587838871 +0200	commit: 4.2 Action filter
+cbf28fee792b95e626473e999c7e6809bd5ff8c6 27e4c234b3f97d36d2fa60616f2a5ab0db087d00 Jakub Kozera <kozerakuba@gmail.com> 1587844742 +0200	commit: 👀
+27e4c234b3f97d36d2fa60616f2a5ab0db087d00 ce7c8440babe0c17eaff9a79b12106befee768b3 Jakub Kozera <kozerakuba@gmail.com> 1587906686 +0200	commit: 4.3 Exception filter
+ce7c8440babe0c17eaff9a79b12106befee768b3 d9ea77275dfeb7e3ce51c3fc7f2e2db90554a552 Jakub Kozera <kozerakuba@gmail.com> 1587925411 +0200	commit: setup
+d9ea77275dfeb7e3ce51c3fc7f2e2db90554a552 f4d48f846634eb20a4a96af8750bea96166cb337 Jakub Kozera <kozerakuba@gmail.com> 1587971984 +0200	commit: 3.4 Authorization filter
+f4d48f846634eb20a4a96af8750bea96166cb337 091bbf7622cb1385d902c7734b19bd2befecb36a Jakub Kozera <kozerakuba@gmail.com> 1588227943 +0200	commit: cleanup
+091bbf7622cb1385d902c7734b19bd2befecb36a 091bbf7622cb1385d902c7734b19bd2befecb36a Jakub Kozera <kozerakuba@gmail.com> 1588228315 +0200	reset: moving to HEAD
+091bbf7622cb1385d902c7734b19bd2befecb36a 64420821c06128e61e3f77c65daae3c9699c23a8 Jakub Kozera <kozerakuba@gmail.com> 1588352379 +0200	commit: 4.5 Filters DI
+64420821c06128e61e3f77c65daae3c9699c23a8 502c5dfa736b9a68d378a4778cfe50716ff45ad3 Jakub Kozera <kozerakuba@gmail.com> 1588405672 +0200	commit: 5.1 CORS
+502c5dfa736b9a68d378a4778cfe50716ff45ad3 369f7065103944f977d4e9a06f5c76f50c769dad Jakub Kozera <kozerakuba@gmail.com> 1588439849 +0200	commit: 5.2 Serving files
+369f7065103944f977d4e9a06f5c76f50c769dad 1a8e06a56883729ff0e2d7fede2e19a6f2f3b283 Jakub Kozera <kozerakuba@gmail.com> 1588572656 +0200	commit: 5.3 Caching
+1a8e06a56883729ff0e2d7fede2e19a6f2f3b283 813e6322672c289378315ecfcb9068a00ec21f76 Jakub Kozera <kozerakuba@gmail.com> 1588576273 +0200	commit: 5.4 Function method
+813e6322672c289378315ecfcb9068a00ec21f76 0167fe18e77d28db9bb5fcbc103304ce393c2ed1 Jakub Kozera <kozerakuba@gmail.com> 1589304376 +0200	commit: 6.5 MeetupContext adjustment
+0167fe18e77d28db9bb5fcbc103304ce393c2ed1 6bb4882a7d4b8d1a1110e7d33b0edbcd9ca17b25 Jakub Kozera <kozerakuba@gmail.com> 1589353480 +0200	commit: seeder uncommented
+6bb4882a7d4b8d1a1110e7d33b0edbcd9ca17b25 9bfd8b624adf1ba53ddb06990410ad22cf051916 Jakub Kozera <kozerakuba@gmail.com> 1589615990 +0200	commit: 6.6 Automatic migrations
